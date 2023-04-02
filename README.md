@@ -1,6 +1,9 @@
 # Website for GistGate News reader mobile app!
 Created by Anatu Green (Anaturuchi Iroapali). Website was created on 01/April/2023 using React.
-# Currently hosted on Netlify : https://64292338a6d9133ce5ddb6ce--unique-raindrop-b87c9c.netlify.app/
+Currently hosted on Netlify : https://64292338a6d9133ce5ddb6ce--unique-raindrop-b87c9c.netlify.app/
+
+![image](https://user-images.githubusercontent.com/95270336/229337293-b53455fe-40bf-4f1a-bdc7-ce696acd3291.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
